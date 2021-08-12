@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c51a1836-300f-4d9c-9508-4d70fa480811" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sbAlNuRDfem4sCUIZMuUuu5h8g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../team4/m1" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\source\repos\team4\m1" />
+      <recent name="C:\Users\Student\source\repos\team4\m1\target" />
+      <recent name="C:\Users\Student\source\repos\team4-java-blue-week04-pair-exercises" />
+      <recent name="C:\Users\Student\source\repos\team4-java-blue-week04-pair-exercises\m1-capstone-java-cateringsystem\src\main\java\com\techelevator\inventory" />
+      <recent name="C:\Users\Student\source\repos\team4-java-blue-week04-pair-exercises\m1-capstone-java-cateringsystem\src\main\java\com\techelevator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\source\repos\uzeyirbaghirov-java-blue\module-1\09_Classes_Encapsulation\exercise-student\src\main" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.techelevator.balance" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.techelevator.TollBoothCalculator" />
+      <recent name="com.techelevator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.techelevator.inventory" />
+      <recent name="com.techelevator" />
+      <recent name="com.techelevator.PostageCalculator" />
+      <recent name="com.techelevator.vehicle" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.VendingMachineCLI">
+    <configuration name="CateringSystemCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.CateringSystemCLI" />
+      <module name="m1-java-capstone-catering-system" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecimalToBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.DecimalToBinary" />
+      <module name="m01d05-command-line-programs-exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileLecture" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.FileLecture" />
+      <module name="m01d17-file-io-part2-lecture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.MainProgram" />
+      <module name="m01d15-week3-review" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineCLI" />
+      <module name="m1-java-capstone-catering-system (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachineCLI" />
+        <item itemvalue="Application.CateringSystemCLI" />
+        <item itemvalue="Application.FileLecture" />
+        <item itemvalue="Application.DecimalToBinary" />
+        <item itemvalue="Application.MainProgram" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c51a1836-300f-4d9c-9508-4d70fa480811" name="Default Changelist" comment="" />
+      <created>1621131067265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621131067265</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/07_Collections_Part_1/lecture-student/src/main/java/com/techelevator/Lecture.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/08_Collections_Part_2/exercise-student/src/main/java/com/techelevator/Exercises.java</url>
+          <line>109</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/11_Inheritance/exercise-student/src/main/java/com/techelevator/BankAccount.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/12_Polymorphism/lecture-student/src/main/java/com/techelevator/farm/OldMacdonald.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/12_Polymorphism/lecture-student/src/main/java/com/techelevator/farm/OldMacdonald.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/student-lecture/src/test/java/com/techelevator/trees/FruitTreeTest.java</url>
+          <line>92</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/16_FileIO_Reading_in/lecture-student/src/main/java/com/techelevator/exceptions/ExceptionStackExamples.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/15_Week3_Review/lecture-student/src/main/java/com/techelevator/MainProgram.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/15_Week3_Review/lecture-student/src/main/java/com/techelevator/inventory/FileInventoryReader.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/16_FileIO_Reading_in/exercise-student/src/test/java/com/techelevator/WordSearchTests.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/student-lecture/src/test/java/com/techelevator/fizzbuzz/FizzBuzzTest.java</url>
+          <line>27</line>
+          <properties class="com.techelevator.fizzbuzz.FizzBuzzTest" method="fizz_if_number_multiple_of_3">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/exercise-student/src/test/java/com/techelevator/Less20Test.java</url>
+          <line>68</line>
+          <properties class="com.techelevator.Less20Test" method="true_when_less_than_20_true">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/exercise-student/src/test/java/com/techelevator/Less20Test.java</url>
+          <line>78</line>
+          <properties class="com.techelevator.Less20Test" method="true_when_less_than_20_false">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../team3-java-blue-week03-pair-exercises/Polymorphism-pair-exercise/src/main/java/com/techelevator/PostageCalculator/PostalService.java</url>
+          <line>7</line>
+          <properties class="com.techelevator.PostageCalculator.PostalService">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../team3-java-blue-week03-pair-exercises/Polymorphism-pair-exercise/src/test/java/com/techelevator/PostageCalculator/FirstClassMailTest.java</url>
+          <line>78</line>
+          <properties class="com.techelevator.PostageCalculator.FirstClassMailTest" method="true_when_calculateRate_100_true">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m01d15_week3_review$All_in_m01d14_unit_testing_lecture.ic" NAME="All in m01d14-unit-testing-lecture Coverage Results" MODIFIED="1622210591838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/m01d15_week3_review$com_techelevator_in_m01d14_unit_testing_exercise.ic" NAME="com.techelevator in m01d14-unit-testing-exercise Coverage Results" MODIFIED="1622249905730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/m01d15_week3_review$All_in_m01d14_unit_testing_exercise.ic" NAME="All in m01d14-unit-testing-exercise Coverage Results" MODIFIED="1622249923874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/m01d15_week3_review$MainProgram.ic" NAME="MainProgram Coverage Results" MODIFIED="1622217281416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+  </component>
+</project>

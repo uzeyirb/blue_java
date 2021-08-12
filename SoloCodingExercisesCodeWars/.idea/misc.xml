@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/08_Collections_Part_2/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/09_Classes_Encapsulation/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/09_Classes_Encapsulation/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/11_Inheritance/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/11_Inheritance/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../team3-java-blue-week03-pair-exercises/Polymorphism-pair-exercise/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/12_Polymorphism/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/12_Polymorphism/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/13_Inheritance_Abstract_Classes/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/13_Inheritance_Abstract_Classes/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/student-lecture/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/14_Unit_Testing/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/15_Week3_Review/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/05_Command_Line_Programs/lecture-final/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/08_Collections_Part_2/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/07_Collections_Part_1/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/16_FileIO_Reading_in/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/17_FileIO_Writing_out/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/m1-assessment/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/16_FileIO_Reading_in/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/17_FileIO_Writing_out/exercise-student-optional/pom.xml" />
+        <option value="$PROJECT_DIR$/../team4-java-blue-week04-pair-exercises/m1-capstone-java-cateringsystem/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/07_Collections_Part_1/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/05_Command_Line_Programs/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/06_Introduction_Objects_Strings/exercise-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../uzeyirbaghirov-java-blue/module-1/06_Introduction_Objects_Strings/lecture-student/pom.xml" />
+        <option value="$PROJECT_DIR$/../team4/m1-capstone-java-cateringsystem/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
